@@ -1,5 +1,5 @@
 student_id,full_name,gender,math_score,english_score,science_score,attendance_rate,term
-5506-350,Mary Smith,Male,92.0,14.0,71.0,74.98,2023_T1
+5506-350,Mary Smith,Male,92.0,14.0,71.0,74.98,2023_T1 
 2424-704,Mary Moore,Female,82.0,86.0,74.0,83.95,2023_T1
 4582-338,James Johnson,Male,99.0,23.0,2.0,78.37,2024_T1
 7873-325,Patricia Moore,Female,1.0,87.0,29.0,60.82,2024_T1
